@@ -31,7 +31,7 @@ To start the game, run the following command in your terminal:
     ```
 
 ## 🌐 Project Page
-You can find this project listed at [https://roadmap.sh/projects/expense-tracker](roadmap.sh)
+You can find this project listed at [https://roadmap.sh/projects/number-guessing-game](roadmap.sh)
 
 ## 📄 License
 This project is open-source and available under the MIT License.
